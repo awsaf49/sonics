@@ -11,6 +11,7 @@
 [![Hugging Face Dataset](https://img.shields.io/badge/HuggingFace-Dataset-orange)](https://huggingface.co/datasets/awsaf49/sonics)
 [![Kaggle Dataset](https://img.shields.io/badge/Kaggle-Dataset-blue?logo=kaggle)](https://www.kaggle.com/datasets/awsaf49/sonics-dataset)
 [![Hugging Face Demo](https://img.shields.io/badge/HuggingFace-Demo-blue)](https://huggingface.co/spaces/awsaf49/sonics-fake-song-detection)
+[![Song Arena](https://img.shields.io/badge/HuggingFace-Song_Arena-blue)](https://huggingface.co/spaces/sonics-dl-group/sonics-song-arena)
 </div>
 
 This repository contains the official source code for our paper **SONICS: Synthetic Or Not - Identifying Counterfeit Songs**.
@@ -190,6 +191,12 @@ pip install git+https://github.com/awsaf49/sonics.git
 from sonics import HFAudioClassifier
 model = HFAudioClassifier.from_pretrained("awsaf49/sonics-spectttra-gamma-5s")
 ```
+
+---
+
+## 🎵 Song Arena
+
+Can you detect if a song is AI-generated or real? Find out at our 🤗 [Song Arena](https://huggingface.co/spaces/sonics-dl-group/sonics-song-arena)!
 
 ---
 
