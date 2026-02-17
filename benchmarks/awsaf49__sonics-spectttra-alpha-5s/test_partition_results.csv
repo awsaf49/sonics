@@ -1,0 +1,14 @@
+category,partition,score,size
+algorithm,chirp-v3,0.9953703703703703,648
+algorithm,chirp-v3.5,1.0,272
+algorithm,chirp-v2-xxl-alpha,0.6584615384615384,325
+algorithm,udio-30s,0.2410958904109589,730
+algorithm,udio-120s,0.9966442953020134,298
+singer,seen,0.9367945823927766,886
+singer,unseen,0.9299719887955182,357
+fake_type,full fake,0.6826923076923077,104
+fake_type,half fake,0.9319148936170213,235
+fake_type,mostly fake,0.6794208893485005,1934
+length,long,0.9635178779597531,2277
+length,short,0.20557086899753374,740
+length,medium,0.5953429101019463,499
